@@ -1,8 +1,7 @@
-name: 522_dsci-workflows_dockerfile_practice
+name: dsci522-dockerfile-practice
 channels:
-  - conda-forge
-  - defaults
+ - conda-forge
 dependencies:
-  - python=3.12.4
   - pandas=2.2.2
   - pandera=0.20.4
+  - python=3.11
