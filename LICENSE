@@ -1,3 +1,6 @@
+This repository contains files partially based on work provided by Tiffany A. Timbers in the [`dsci522-dockerfile-practice repository`](https://github.com/ttimbers/dsci522-dockerfile-practice), specifically the following file:
+- `docker-publish.yml`
+
 MIT License
 
 Copyright (c) 2024 javiermtzo99

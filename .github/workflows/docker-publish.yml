@@ -3,6 +3,10 @@
 # Can be triggered by either pushing a commit that changes the `Dockerfile`, 
 # or manually dispatching the workflow.
 
+# This file is based on work provided by Tiffany A. Timbers in the 
+# dsci522-dockerfile-practice repository: https://github.com/ttimbers/dsci522-dockerfile-practice
+# Modifications and adaptations made by Javier Martinez
+
 name: Publish Docker image
 
 on: 
